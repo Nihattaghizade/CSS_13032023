@@ -327,41 +327,33 @@ header nav ul li a:hover + i {
 .minicon {
   padding-top: 35px;
   display: flex;
-  position: relative;
+  /* position: relative; */
   gap: 20px;
 }
 
-.icon1 {
-  position: absolute;
-  top: 5px;
-}
-
-.icon2 {
-  position: absolute;
-  top: 0px;
-  left: 190px;
-}
 
 .minicon div {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  /* align-items: flex-end; */
   border-radius: 14px;
   padding-bottom: 15px;
 }
 
-.minicon span {
-  margin-right: 7px;
-}
 
-.minicon img {
+
+/* .minicon img {
   position: relative;
-}
+} */
 
 .shose {
   width: 129px;
-  height: 112px;
+  height: 120px;
   background: #f2d4dc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .first-card-text {
@@ -373,8 +365,12 @@ header nav ul li a:hover + i {
 
 .alert {
   width: 172px;
-  height: 112px;
+  height: 120px;
   background: #c3dce3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .second-card-text {
