@@ -150,6 +150,8 @@
   color: #000000;
 }
 
+
+
 .container1 {
   max-width: 1920px;
   height: 740px;
@@ -363,16 +365,6 @@
   height: 30px;
 }
 
-.icon-energy a{
-  position: absolute;
-  left: 0%;
-  right: 0%;
-  top: 0%;
-  bottom: 0%;
-  
-  /* background: #2B788B; */
-}
-
 .icon-energy600 p {
   width: 129px;
   height: 40px;
@@ -427,15 +419,6 @@
 .icon-domino {
   width: 24px;
   height: 30px;
-}
-
-.icon-domino a{
-  position: absolute;
-  left: 87.3%;
-  right: -112.3%;
-  top: 0.74%;
-  bottom: 39.26%;
-  /* background: #2B788B; */
 }
 
 .icon-domino2 p{
