@@ -327,7 +327,6 @@ header nav ul li a:hover + i {
 .minicon {
   padding-top: 35px;
   display: flex;
-  /* position: relative; */
   gap: 20px;
 }
 
@@ -335,16 +334,9 @@ header nav ul li a:hover + i {
 .minicon div {
   display: flex;
   justify-content: center;
-  /* align-items: flex-end; */
   border-radius: 14px;
   padding-bottom: 15px;
 }
-
-
-
-/* .minicon img {
-  position: relative;
-} */
 
 .shose {
   width: 129px;
